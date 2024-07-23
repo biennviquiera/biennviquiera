@@ -10,5 +10,5 @@ Front-end: TypeScript, React, JavaScript
 
 iOS: Objective-C
 
-Thanks for stopping by! Check out my (personal website!)[https://bienn.dev] or email me at biennviquiera@gmail.com!
+Thanks for stopping by! Check out my [personal website!](https://bienn.dev) or email me at biennviquiera@gmail.com!
 
