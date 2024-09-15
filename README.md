@@ -4,9 +4,9 @@ My name is Bienn. I am a Yale graduate with a Bachelor's in Computer Science. I 
 
 💻 Skills
 
-General purpose: Python, C, Java
+General purpose: Python, C(++), Java, TypeScript
 
-Front-end: TypeScript, React, JavaScript
+Frameworks/Libraries: Node.js, Django, React
 
 iOS: Objective-C
 
